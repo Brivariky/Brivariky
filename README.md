@@ -10,7 +10,7 @@ Junior in Informatics stuff, I just wanna make product that makes everything eas
   const Briva = {
   roles = "Informatics Engineer",
   focus = "Frontend Developer",
-  Passion = "Website, Software, Game Developer"
+  Passion = "AWebsite, Software, Game Developer"
   };
 ```
 <h3 align="left">Languages and Tools:</h3>
