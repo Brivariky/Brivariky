@@ -45,6 +45,6 @@ Junior in Informatics stuff, I just wanna make product that makes everything eas
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.yml" alt="Snake animation" />
 
 ###
