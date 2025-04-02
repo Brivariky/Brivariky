@@ -12,8 +12,6 @@ const Briva = {
   focus: ["Frontend Development", "Game Development", "Software Development"],
   passion: ["Web Development", "Game Design", "UI/UX"],
 };
-
-console.log(`Hello! I'm ${Briva.roles}, passionate about ${Briva.passion.join(", ")}.`);
 ```
 ###
 
