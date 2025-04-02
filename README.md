@@ -1,7 +1,7 @@
 
 # HI 👋  I'm Briva
 
-Junior in Informatics stuff, I just wanna make product that makes everything easier 😁
+Junior in Informatics stuff, I just wanna make something that makes everything easier 😁
 
 
 ## About Me
