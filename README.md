@@ -7,10 +7,13 @@ Junior in Informatics stuff, I just wanna make product that makes everything eas
 ## About Me
 
 ```bash
-  const Briva = {
-  roles = "Informatics Engineer",
-  focus = "Frontend Developer",
-  Passion = "AWebsite, Software, Game Developer"};
+const Briva = {
+  roles: "Informatics Engineer",
+  focus: ["Frontend Development", "Game Development", "Software Development"],
+  passion: ["Web Development", "Game Design", "UI/UX"],
+};
+
+console.log(`Hello! I'm ${Briva.roles}, passionate about ${Briva.passion.join(", ")}.`);
 ```
 ###
 
